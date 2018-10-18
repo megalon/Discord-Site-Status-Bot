@@ -1,0 +1,10 @@
+{
+  "guild": "guild-id",
+  "clientURLsAndTokens": [
+	{
+		"title":"Site 1 Name",
+		"url":"site1.com",
+		"token":"Discord-bot-token"
+	}
+  ]
+}

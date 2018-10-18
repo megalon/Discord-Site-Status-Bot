@@ -1,0 +1,14 @@
+# Text files
+*.txt
+*.log
+
+# Images
+bot-icons/
+*.png
+
+# Node modules
+node_modules/
+
+# Settings
+settings.json
+keepalive.sh
